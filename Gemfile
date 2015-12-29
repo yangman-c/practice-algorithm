@@ -1,4 +1,5 @@
-
+source 'https://rubygems.org'
+gem 'ruby'
 gem 'pry-byebug', '~> 3.2.0'
 # Makes `rails console` to open Pry, https://github.com/rweng/pry-rails
 gem 'pry-rails', '~> 0.3.4'
